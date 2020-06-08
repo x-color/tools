@@ -17,3 +17,10 @@ godoc http.Server
 **Shortcut Key**
 
 - Ctrl-o: Open web page(http://godoc.org) of GoDoc of package in browser
+
+### Installation
+
+1. Copy code in [godoc_alias.zsh](https://github.com/x-color/tools/blob/master/godoc_alias.zsh).
+2. Paste code to ~/.zshrc, ~/.bashrc, etc...
+3. Execute `source ~/.zshrc` or `source ~/.bashrc` or ...
+
