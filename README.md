@@ -20,7 +20,8 @@ godoc http.Server
 
 ### Installation
 
-1. Copy code in [godoc_alias.zsh](https://github.com/x-color/tools/blob/master/godoc_alias.zsh).
-2. Paste code to ~/.zshrc, ~/.bashrc, etc...
-3. Execute `source ~/.zshrc` or `source ~/.bashrc` or ...
+1. Install [go](https://github.com/golang/go) & [fzf](https://github.com/junegunn/fzf)
+2. Copy code in [godoc_alias.zsh](https://github.com/x-color/tools/blob/master/godoc_alias.zsh).
+3. Paste code to ~/.zshrc
+4. Execute `source ~/.zshrc`
 
